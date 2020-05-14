@@ -36,7 +36,7 @@ var success= false;
   // var a = Math.floor(Math.random()*3);
   //   mainimage = b[a]
   // document.getElementById('setimage').src=mainimage
-  breakimage('./123.PNG',3)
+  breakimage('./123.png',3)
 })();
 function breakimage(images,sizepiece){
    mainimage=images
