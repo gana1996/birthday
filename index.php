@@ -1,0 +1,3 @@
+<?php
+includes './home.html'
+?>
