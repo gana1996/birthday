@@ -27,7 +27,7 @@ var success= false;
       }
     })
   }
-
+$('body').css({'height': ( window.outerHeight - 80)+'px'})
   if ($(window).width() <= 600) {
     $('table').style['margin-left'] = '187px'
     $('.contents h4').style[' font-size'] = '73px'
